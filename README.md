@@ -1,0 +1,26 @@
+# UNIVERSITY-ADMISSION-PREDICTION
+PG_admission_train_data.ipynb---- IN THIS FILE IS THE TRAINNING DATA IS HANDLED
+
+Test_data_PG_admission_Predictions.ipynb   ---TESTING AND PREDICTION FOR REAL TIME DATASET 
+# PRE-TRAINNED MODEL STORED AS A PICKLE FILE(Admission_predict.pkl) 
+USED BY app.py(web app using streamlit)
+# To run app.py
+streamlit run app.py   in your cmd directory
+
+# TEST DATA IS REAL TIME DATA NOT TAKEN FROM ANY WHERE
+#PRE-REQUSITES
+1)PANDAS
+
+2)NUMPY
+
+3)MATPLOTLIB
+
+4)SEABORN
+
+5)SKLEARN
+
+6)PICKLE
+
+7)FLASK
+
+8)STREAMLIT
